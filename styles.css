@@ -25,6 +25,7 @@ div[class='book'] {
   flex-direction: column;
   text-align: left;
   gap: 10px;
+  background-color: rgb(46, 204, 113);
 }
 
 div[class='book'] img {
@@ -37,12 +38,14 @@ div[class='book'] img {
 div[class='book'] h2 {
   font-size: 2em;
   font-weight: bold;
+  background-color: rgb(46, 204, 113);
 }
 
 div[class='book'] p {
   font-size: 1em;
   font-weight: lighter;
   color: #777777;
+  background-color: rgb(46, 204, 113);
 }
 div[class='book'] button {
   border: none;
