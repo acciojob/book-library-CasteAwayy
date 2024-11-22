@@ -30,6 +30,7 @@ div[class='book'] {
 div[class='book'] img {
   margin: 0 auto;
   width: 250px;
+  background: #2ecc71;
   object-fit: cover;
 }
 
@@ -51,6 +52,5 @@ div[class='book'] button {
   width: 100%;
   color: white;
   border-radius: 5px;
-  /* background-color: #2ecc71; */
-  color: rgb(46, 204, 113);
+  background: #2ecc71;
 }
