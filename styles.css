@@ -25,7 +25,6 @@ div[class='book'] {
   flex-direction: column;
   text-align: left;
   gap: 10px;
-  background: rgb(46, 204, 113);
 }
 
 div[class='book'] img {
@@ -52,5 +51,6 @@ div[class='book'] button {
   width: 100%;
   color: white;
   border-radius: 5px;
-  background-color: rgb(46, 204, 113);
+  /* background-color: #2ecc71; */
+  color: rgb(46, 204, 113);
 }
