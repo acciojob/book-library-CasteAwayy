@@ -16,7 +16,7 @@ body {
   padding: 10px;
 }
 
-.book {
+div[class='book'] {
   position: relative;
   width: 100%;
   padding: 10px;
@@ -32,7 +32,7 @@ body {
   object-fit: cover;
 }
 
-.book h1 {
+.book h2 {
   font-size: 2em;
   font-weight: bold;
 }
