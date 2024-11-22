@@ -26,23 +26,23 @@ div[class='book'] {
   gap: 10px;
 }
 
-.book img {
+div[class='book'] img {
   margin: 0 auto;
   width: 250px;
   object-fit: cover;
 }
 
-.book h2 {
+div[class='book'] h1 {
   font-size: 2em;
   font-weight: bold;
 }
 
-.book h3 {
+div[class='book'] h2 {
   font-size: 1em;
   font-weight: lighter;
   color: #777777;
 }
-.book button {
+div[class='book'] button {
   border: none;
   font-weight: 400;
   padding: 10px;
