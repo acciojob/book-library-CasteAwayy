@@ -25,6 +25,7 @@ div[class='book'] {
   flex-direction: column;
   text-align: left;
   gap: 10px;
+  background: rgb(46, 204, 113);
 }
 
 div[class='book'] img {
